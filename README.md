@@ -8,7 +8,7 @@
 
 ## Contributors: Emilio Cubero, Anthony Segovia, Enrique Briceno
 
-# Apple Pay: A Competitor in the Future of Finance"
+# Apple Pay: A Competitor in the Future of Finance
 
 Apple Pay was in preparation for a long time as Apple acquired startups, hired executives and filed patents related to payments. Apple partnered with American Express, MasterCard and Visa. Their joint project began in January 2013, though they had discussed Apple’s potential involvement for years. Their joint solution was a system where single-use digital tokens would replace the transfer of personal information. They are a payment service use for making purchases, subscribing to services and sending money. To list some of their competitors are Amazon Pay, PayPal, Google pay, and transfer wise.
 
