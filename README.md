@@ -1,10 +1,10 @@
-#Fintech Case Study In Class Activity 12-4-2021
+# Fintech Case Study In Class Activity 12-4-2021
 
 ![Apple Pay](https://i.pcmag.com/imagery/reviews/02RJy7OTtPnQQjh37yQDNqx-15..v1598973550.png)
 
-##Apple Pay Case Study##
+## Apple Pay Case Study
 
-##The information below is a case study that explores the background, technology, strengths, weaknesses, and future of Apple and Apple Pay in the Fintech space.##
+## The information below is a case study that explores the background, technology, strengths, weaknesses, and future of Apple and Apple Pay in the Fintech space.
 
 ##Contributors: Emilio Cubero, Anthony Segovia, Enrique Briceno##
 
