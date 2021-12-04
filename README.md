@@ -1,4 +1,4 @@
-#Fintech Case Study In Class Activity 12-4-2021#
+#Fintech Case Study In Class Activity 12-4-2021
 
 ![Apple Pay](https://i.pcmag.com/imagery/reviews/02RJy7OTtPnQQjh37yQDNqx-15..v1598973550.png)
 
